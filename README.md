@@ -61,5 +61,5 @@ Two primary classification algorithms were trained and benchmarked on a stratifi
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/smart-recruitment-assistant.git](https://github.com/your-username/smart-recruitment-assistant.git)
-   cd smart-recruitment-assistant
+git clone https://github.com/Abdallah-Mostafa19/Smart-Recruitment-Assistant.git
+cd Smart-Recruitment-Assistant
